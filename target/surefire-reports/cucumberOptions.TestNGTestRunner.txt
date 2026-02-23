@@ -1,0 +1,225 @@
+-------------------------------------------------------------------------------
+Test set: cucumberOptions.TestNGTestRunner
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 5, Errors: 0, Skipped: 0, Time elapsed: 1.902 s <<< FAILURE! -- in cucumberOptions.TestNGTestRunner
+cucumberOptions.TestNGTestRunner.runScenario["Admin Page default login", "Application Login"](1) -- Time elapsed: 0.200 s <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'setup the entries in database' and 6 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("setup the entries in database")
+public void setup_the_entries_in_database() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("launch the browser from config vaiables")
+public void launch_the_browser_from_config_vaiables() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("hit the home page url of banking site")
+public void hit_the_home_page_url_of_banking_site() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Given("user is on Netbanking landing page")
+public void user_is_on_netbanking_landing_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User login into application with {string} and password {string}")
+public void user_login_into_application_with_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Home Page is displayed")
+public void home_page_is_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Cards are displayed")
+public void cards_are_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+	at ✽.setup the entries in database(file:///C:/Users/USER/eclipse-cucumberrahul-workspace/Automation/src/test/java/features/firstProgram.feature:4)
+
+cucumberOptions.TestNGTestRunner.runScenario["User Page default login", "Application Login"](2) -- Time elapsed: 0.023 s <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'setup the entries in database' and 6 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("setup the entries in database")
+public void setup_the_entries_in_database() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("launch the browser from config vaiables")
+public void launch_the_browser_from_config_vaiables() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("hit the home page url of banking site")
+public void hit_the_home_page_url_of_banking_site() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Given("user is on Netbanking landing page")
+public void user_is_on_netbanking_landing_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User login into application with {string} and password {int}")
+public void user_login_into_application_with_and_password(String string, Integer int1) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Home Page is displayed")
+public void home_page_is_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Cards are displayed")
+public void cards_are_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+	at ✽.setup the entries in database(file:///C:/Users/USER/eclipse-cucumberrahul-workspace/Automation/src/test/java/features/firstProgram.feature:4)
+
+cucumberOptions.TestNGTestRunner.runScenario["Mortgage User Page default login", "Application Login"](3) -- Time elapsed: 0.012 s <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'setup the entries in database' and 6 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("setup the entries in database")
+public void setup_the_entries_in_database() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("launch the browser from config vaiables")
+public void launch_the_browser_from_config_vaiables() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("hit the home page url of banking site")
+public void hit_the_home_page_url_of_banking_site() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Given("user is on Netbanking landing page")
+public void user_is_on_netbanking_landing_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User login into application with {string} and password {string}")
+public void user_login_into_application_with_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Home Page is displayed")
+public void home_page_is_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Cards are displayed")
+public void cards_are_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+	at ✽.setup the entries in database(file:///C:/Users/USER/eclipse-cucumberrahul-workspace/Automation/src/test/java/features/firstProgram.feature:4)
+
+cucumberOptions.TestNGTestRunner.runScenario["Mortgage User Page default login", "Application Login"](4) -- Time elapsed: 0.015 s <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'setup the entries in database' and 6 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("setup the entries in database")
+public void setup_the_entries_in_database() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("launch the browser from config vaiables")
+public void launch_the_browser_from_config_vaiables() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("hit the home page url of banking site")
+public void hit_the_home_page_url_of_banking_site() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Given("user is on Netbanking landing page")
+public void user_is_on_netbanking_landing_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User login into application with {string} and password {string}")
+public void user_login_into_application_with_and_password(String string, String string2) {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Home Page is displayed")
+public void home_page_is_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Cards are displayed")
+public void cards_are_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+	at ✽.setup the entries in database(file:///C:/Users/USER/eclipse-cucumberrahul-workspace/Automation/src/test/java/features/firstProgram.feature:4)
+
+cucumberOptions.TestNGTestRunner.runScenario["User Page default signup", "Application Login"](5) -- Time elapsed: 0.015 s <<< FAILURE!
+io.cucumber.testng.UndefinedStepException: 
+The step 'setup the entries in database' and 6 other step(s) are undefined.
+You can implement these steps using the snippet(s) below:
+
+@Given("setup the entries in database")
+public void setup_the_entries_in_database() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("launch the browser from config vaiables")
+public void launch_the_browser_from_config_vaiables() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("hit the home page url of banking site")
+public void hit_the_home_page_url_of_banking_site() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Given("user is on Practice landing page")
+public void user_is_on_practice_landing_page() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@When("User Signup into application")
+public void user_signup_into_application(io.cucumber.datatable.DataTable dataTable) {
+    // Write code here that turns the phrase above into concrete actions
+    // For automatic transformation, change DataTable to one of
+    // E, List<E>, List<List<E>>, List<Map<K,V>>, Map<K,V> or
+    // Map<K, List<V>>. E,K,V must be a String, Integer, Float,
+    // Double, Byte, Short, Long, BigInteger or BigDecimal.
+    //
+    // For other transformations you can register a DataTableType.
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Home Page is displayed")
+public void home_page_is_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+@Then("Cards are displayed")
+public void cards_are_displayed() {
+    // Write code here that turns the phrase above into concrete actions
+    throw new io.cucumber.java.PendingException();
+}
+
+	at ✽.setup the entries in database(file:///C:/Users/USER/eclipse-cucumberrahul-workspace/Automation/src/test/java/features/firstProgram.feature:4)
+
