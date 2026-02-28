@@ -37,6 +37,7 @@ public class CheckoutPageStepDefinition {
 		
 		Assert.assertTrue(checkoutPage.VerifyPromoBtn());
 		Assert.assertTrue(checkoutPage.VerifyPlaceOrder());
+		System.out.println("Indranil mondal");
 	
 		
 	}
