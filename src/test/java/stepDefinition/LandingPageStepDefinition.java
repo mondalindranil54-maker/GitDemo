@@ -46,6 +46,7 @@ public class LandingPageStepDefinition {
 	    Thread.sleep(4000);
 	    testcontextsetup.landingPageproductName = landingPage.getProductName().split("-")[0].trim();
 	    System.out.println(landingPageproductName +" is extracted from homepage");
+	    System.out.println(" nengti is extracted from homepage");
 	}
 	
 	@When("Added {string} items of the selected product to cart")

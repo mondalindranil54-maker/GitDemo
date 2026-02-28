@@ -38,6 +38,9 @@ public class CheckoutPageStepDefinition {
 		Assert.assertTrue(checkoutPage.VerifyPromoBtn());
 		Assert.assertTrue(checkoutPage.VerifyPlaceOrder());
 		System.out.println("Indranil mondal");
+		System.out.println("Indranil mondal 2");
+		System.out.println("Indranil mondal 5 ");
+		System.out.println("Indranil mondal 8");
 	
 		
 	}
