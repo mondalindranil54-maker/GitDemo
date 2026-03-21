@@ -47,6 +47,7 @@ public class LandingPageStepDefinition {
 	    testcontextsetup.landingPageproductName = landingPage.getProductName().split("-")[0].trim();
 	    System.out.println(landingPageproductName +" is extracted from homepage");
 	    System.out.println(" nengti is extracted from homepage");
+	    System.out.println("Indranil Git branching");
 	}
 	
 	@When("Added {string} items of the selected product to cart")
