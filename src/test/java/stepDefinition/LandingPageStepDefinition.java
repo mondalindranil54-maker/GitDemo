@@ -48,6 +48,7 @@ public class LandingPageStepDefinition {
 	    System.out.println(landingPageproductName +" is extracted from homepage");
 	    System.out.println(" nengti is extracted from homepage");
 	    System.out.println("Indranil Git branching");
+	    System.out.println("nengti banerjee");
 	}
 	
 	@When("Added {string} items of the selected product to cart")
